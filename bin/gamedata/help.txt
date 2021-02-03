@@ -1,0 +1,6 @@
+--Knockoff Trail--
+
+    A poorly made knockoff of the much more popular Oregon Trail
+game from the ye olden times.
+
+    Press ENTER to return to home page...

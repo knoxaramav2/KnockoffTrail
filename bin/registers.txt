@@ -1,0 +1,21 @@
+    SI |    INT |                              0
+   TRI |    INT |                              0
+   TRF |  FLOAT |                       0.000000
+  OPTI |    INT |                              0
+  CRF0 |  FLOAT |                       0.000000
+  CRF1 |  FLOAT |                       0.000000
+  CRF2 |  FLOAT |                       0.000000
+  CRF2 |  FLOAT |                       0.000000
+  CRI0 |    INT |                              0
+  CRI1 |    INT |                              0
+  CRI2 |    INT |                              0
+  CRI3 |    INT |                              0
+  BRDR |   CHAR |                              0
+  CCR0 |   CHAR |                              0
+  CCR1 |   CHAR |                              0
+  CCR2 |   CHAR |                              0
+  CCR3 |   CHAR |                              0
+  CSR0 | STRING |                               
+  CSR1 | STRING |                               
+  CSR2 | STRING |                               
+  CSR3 | STRING |                               

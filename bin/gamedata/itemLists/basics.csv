@@ -1,0 +1,23 @@
+Name,Base Value,Class,Recipe,Description,Durability,Arg1,Arg2,Arg3
+Wheel,30,Part,Wood:4&Nail:2,A wagon part. Two wheels to an axle.,3000,1,,
+Axle,20,Part,Wood:4&Saw:5,A wagon part for attaching wheels.,6000,1,,
+Wagon Canopy,40,Part,Cloth:10,A wagon part to provide shelter.,20000,1,,
+Wagon Tongue,25,Part,Wood:2&Nail:2,A wagon part to connect pulling animals.,,1,,
+Wagon Bed,60,Part,Wood:5&Nail:5,The base of a wagon that holds supplies and passengers.,,1,,
+Conestoga,285,Transport&Land,Wheel:4&Axle:2&Wagon Canopy:1,A wagon used for transporting travelers and supplies. May carry 5400kg of supplies and up to 5 passengers. ,-1,1,5,5400
+Saw,,Tool,Wood:1&Iron:1,A tool for crafting wood.,1000,1,,
+Nail,1,Part,,A common crafting part.,-1,5,,
+Cloth,3,Part,,A common crafting part.,-1,2,,
+Sled Rail,25,Part,Iron:2,Allows sleds to slide along the ground.,2500,1,,
+Sled Bed,20,Part,Wood:2,The body of a sled,5000,1,,
+Sled,70,Transport&Land,Sled Rail:2&Sled Bed:1,Pulled by dogs to transport up to 3 passengers and 180kg of supplies.,-1,1,3,180
+Hammer,5,Tool,Wood:1&Iron:1,A tool for crafting.,1200,1,,
+Coal,2,Fuel,,Burns hotter than wood. Required for melting some metals.,15,5,,
+Wood,1,Fuel&Part,,Used for crafting and for fuel.,8,5,,
+Oil,2,Fuel,,Used for fuel.,10,6,,
+Pistol,35,Weapon,,A small weapon. Useful for defense.,800,1,,
+Rifle,55,Weapon,,"Larger, but more accurate than a pistol. Good for hunting.",1000,1,,
+Bullet,2,Ammo,,Ammunition for pistols and rifles.,-1,5,,
+Raw Meat,3,Food,,Uncooked meat. May cause disease if not cooked.,-1,1,15,15
+Cooked Meat,5,Food,Raw Meat:1&Wood:2|Raw Meat:1&Coal:1,Cooked meat. Provides more nourishment than raw meat. Far less likely to cause disease.,-1,1,30,2
+Medicine,10,Aid,,Helps treat disease.,-1,1,40,

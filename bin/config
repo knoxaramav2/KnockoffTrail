@@ -1,0 +1,7 @@
+#Configure default game state
+
+cheats=false
+maxcivs=10
+startPartySize=3
+startMoney=500
+towns=30
